@@ -1,9 +1,9 @@
-const model = require('../models/gender.js');
+const model = require('../models/estudio.js');
 
 const db = [
     {   
         id: 1,
-        nome: "genero",
+        nome: "estudio",
         criado_em: "data",
         atualizado_em: "data"
     }

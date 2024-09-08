@@ -1,4 +1,4 @@
-const model = require('../models/gender.js');
+const model = require('../models/publisher.js');
 
 const db = [
     {   
